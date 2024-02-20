@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GregM1992
 - 👀 I’m interested in programming, gaming, art, music, and so so many other things.
 - 🌱 I’m currently learning C# and .NET.
-- 📫 How to reach me: GregoryMarkus1992@gmail.com
+- 📫 How to reach me: GregoryMarkus92@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
