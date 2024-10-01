@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GregM1992
 - 👀 I’m interested in programming, gaming, art, music, and so so many other things.
-- 🌱 I’m currently learning C# and .NET.
+- 🌱 I have 1 year of experience in C#, .Net, and JS. Im currently learning React Native.
 - 📫 How to reach me: GregoryMarkus92@gmail.com
 - 😄 Pronouns: He/Him
 
